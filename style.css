@@ -1,0 +1,100 @@
+/* Here goes your CSS */
+body {
+        background-color: #f9f9f9;
+        margin: 30;
+        font-family: "Montserrat", Helvetica, Arial, sans-serif;
+        line-height: 150%;
+      }
+
+h1 { color: #DD5570;
+    font-family: "Montserrat", Helvetica, Arial, sans-serif;
+    font-size: 20px;
+    line-height:200%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+h2 { color: #505050;
+    font-family: "Montserrat", Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    line-height:200%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+h3 { color: #DD5570;
+    font-family: "Montserrat", Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    line-height:200%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+h4 { color: #5E5E5E;
+    font-family: "Montserrat", Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    line-height:200%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0px 20px;
+  }
+
+p { color: #5E5E5E;
+    font-family: "Montserrat", Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    line-height:150%;
+  }
+
+ul { color: #5E5E5E;
+    font-family: "Montserrat", Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    line-height:200%;
+  }
+
+a:hover { color: #DD5570;
+          font-size: 20px;
+         }
+
+div {
+      background: white;
+      padding: 30px;
+      border-radius: 4px;
+      box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
+      border: 1px solid rgba(0, 0, 0, 0.1);
+      width: 600px;
+      margin: 0 auto;
+      margin-top: 10px;
+      margin-bottom: 10px;
+      }
+
+div.container {
+          text-align: center;
+}
+
+
+img {
+  display: block;
+  max-width:230px;
+  max-height:250px;
+  width: auto;
+  height: auto;
+    margin-left: auto;
+    margin-right: auto
+}
+
+
+
+.img-circle {
+  border-radius: 50%;
+}
+
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+
+.list-inline {
+  padding-left: 20px;
+}
+
+
